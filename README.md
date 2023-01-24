@@ -6,7 +6,7 @@ On this site you can:
 - Look at my projects
 - Contact me
 
-Try it on this **[website](https://piaseckijulian.github.io/Personal-Website/)**
+Try it on this **[website](https://piaseckijulian.github.io/website/)**
 
 ## Credits
 
